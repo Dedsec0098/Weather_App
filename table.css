@@ -1,0 +1,7 @@
+table text-center {
+    border-collapse: collapse;
+    width: 100%;
+    /*border: 1px solid #D9D9DA;*/
+    border-radius: 6px !important;
+    background: #FFFFFF;
+}
